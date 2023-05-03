@@ -1,0 +1,6 @@
+ML:
+Метрики: 
+- https://geekycodes.in/performance-metrics-for-classification-and-regression-algorithms/
+
+
+
